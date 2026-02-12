@@ -1,0 +1,7 @@
+{
+    "name": "whatsapp-clone",
+    "version": "1.0.0",
+    "description": "A simple web-based WhatsApp clone for chatting.",
+    "type": "module",
+    "dependencies": {}
+}
